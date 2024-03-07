@@ -5,8 +5,8 @@
    width:800px;
    margin:5em auto;
    position: fixed;
-  top: -15px;
-   left: 25%;
+  top: -5px;
+   left: 10%;
    display:flex;
    visibility:hidden;
 }
